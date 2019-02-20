@@ -1,7 +1,6 @@
 # canvas-extract-quizzes
 
-# canvas-extract
-Canvas extract discussions, groups 
+Canvas extract quizzes, generate xAPI statements and push to LRS 
 
 ## Node 8.10 Lambda function
 
