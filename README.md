@@ -12,7 +12,6 @@ Following evn variables need to be set via .env or via serverless.yml
 ```
 CANVAS_API_HOST:
 CANVAS_ACCESS_TOKEN:
-CANVAS_FETCH: "discussion_topics"
 LRS_URL: 
 LRS_USERNAME:
 LRS_PASSWORD:
